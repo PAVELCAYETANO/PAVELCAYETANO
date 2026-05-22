@@ -2,13 +2,11 @@
 
 **Estudiante de Ingeniería en Computación | Mobile & Software Architecture | Quantum Computing**
 
-Soy un ingeniero en software en formación (8vo semestre) enfocado en el desarrollo de aplicaciones móviles robustas, diseño de arquitecturas limpias y la investigación de tecnologías emergentes. Diseño sistemas escalables aplicando patrones de diseño (MVC, MVVM) y arquitecturas de 3 capas. 
-
-Actualmente busco una **pasantía profesional de 280 horas (Junio-Julio 2026)** para aportar valor en un entorno de alta exigencia.
+Soy un ingeniero en computación en formación (8vo semestre) enfocado en el desarrollo de software, IA, diseño de arquitecturas limpias y la investigación de tecnologías emergentes. Diseño sistemas escalables aplicando patrones de diseño (MVC, MVVM). 
 
 ### 🚀 Lo que estoy construyendo ahora
 *   Desarrollando simulaciones de algoritmos cuánticos (Grover, Bernstein-Vazirani) utilizando **Qiskit** como parte de un proyecto de investigación de 480 horas.
-*   Diseñando aplicaciones móviles de alto rendimiento con **Flutter** y **React Native**, gestionando bases de datos relacionales en **Supabase**.
+*   Diseñando aplicaciones móviles con **Flutter** y **React Native**, gestionando bases de datos relacionales en **Supabase**.
 *   Implementando arquitecturas orientadas a eventos y sistemas de monitoreo IoT utilizando **MicroPython**.
 
 ---
