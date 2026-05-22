@@ -34,12 +34,12 @@ Soy un ingeniero en computación en formación (8vo semestre) enfocado en el des
 
 ### 📊 Estadísticas de GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PAVELCAYETANO&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAVELCAYETANO&layout=compact&theme=radical&hide_border=true" width="48%" />
 </div>
 
 ---
 
 ### 📬 Contacto
-*   **LinkedIn:** [linkedin.com/in/TU_LINKEDIN](https://www.linkedin.com/in/TU_LINKEDIN)
-*   **Email:** tu_correo@email.com
+*   **LinkedIn:** [[linkedin.com/in/jose-pave-cayetano/](https://www.linkedin.com/in/jose-pavel-cayetano/)]
+*   **Email:** josecylopez@email.com
