@@ -2,7 +2,7 @@
 
 **Estudiante de Ingeniería en Computación | Mobile & Software Architecture | Quantum Computing**
 
-Soy un ingeniero en computación en formación (8vo semestre) enfocado en el desarrollo de software, IA, diseño de arquitecturas limpias y la investigación de tecnologías emergentes. Diseño sistemas escalables aplicando patrones de diseño (MVC, MVVM). 
+Soy un ingeniero en computación en formación (8vo semestre) en la UTM, enfocado en el desarrollo de software, IA, diseño de arquitecturas limpias y la investigación de tecnologías emergentes. Diseño sistemas escalables aplicando patrones de diseño (MVC, MVVM). 
 
 ### 🚀 Lo que estoy construyendo ahora
 *   Desarrollando simulaciones de algoritmos cuánticos (Grover, Bernstein-Vazirani) utilizando **Qiskit** como parte de un proyecto de investigación de 480 horas.
