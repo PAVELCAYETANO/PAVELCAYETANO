@@ -28,7 +28,10 @@ Soy un ingeniero en computación en formación (8vo semestre) enfocado en el des
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Herramientas & Arquitectura:** Scrum | Git | MVC / MVVM | Arquitectura de 3 Capas | Diseño de APIs
+**Arquitectura & Ingeniería de Software:**
+> **Paradigmas y Diseño:** Programación Orientada a Objetos (POO), Modelado UML, Patrones de Diseño (MVC, MVVM), Arquitectura de 3 Capas.
+>
+> **Metodologías de Desarrollo:** Desarrollo Ágil, Scrum, Lean Software Development, Extreme Programming (XP).
 
 ---
 
